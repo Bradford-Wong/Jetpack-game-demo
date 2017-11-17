@@ -1,0 +1,81 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7619]
+    Renderer: NVIDIA GeForce GTX 960M
+    Vendor:   NVIDIA
+    VRAM:     2018 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Bradford\Desktop\Lynda\2d Unity\final\SuperJetroid2DDemo\Builds\Desktop\SuperJetroidDesktop_1.1.1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.052 seconds
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.488769 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.449626 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 4.691673 ms (FindLiveObjects: 0.101452 ms CreateObjectMapping: 0.030790 ms MarkObjects: 0.426336 ms  DeleteObjects: 4.132304 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.745132 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 1568.
+Total: 1.032286 ms (FindLiveObjects: 0.339490 ms CreateObjectMapping: 0.098688 ms MarkObjects: 0.579501 ms  DeleteObjects: 0.013421 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.401694 ms
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 1470.
+Total: 0.916623 ms (FindLiveObjects: 0.148428 ms CreateObjectMapping: 0.058423 ms MarkObjects: 0.352122 ms  DeleteObjects: 0.356069 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.647149 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.073341 ms (FindLiveObjects: 0.249485 ms CreateObjectMapping: 0.095136 ms MarkObjects: 0.652136 ms  DeleteObjects: 0.074608 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.879432 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 1684.
+Total: 0.744509 ms (FindLiveObjects: 0.150007 ms CreateObjectMapping: 0.050923 ms MarkObjects: 0.463838 ms  DeleteObjects: 0.078951 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.051546 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1731.
+Total: 0.721219 ms (FindLiveObjects: 0.156323 ms CreateObjectMapping: 0.053292 ms MarkObjects: 0.483575 ms  DeleteObjects: 0.027632 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.434064 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 1.190583 ms (FindLiveObjects: 0.252249 ms CreateObjectMapping: 0.087635 ms MarkObjects: 0.803328 ms  DeleteObjects: 0.045396 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.686230 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 2.902245 ms (FindLiveObjects: 0.067898 ms CreateObjectMapping: 0.062766 ms MarkObjects: 0.427520 ms  DeleteObjects: 2.342086 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: e320 -> priority: 1 
+  Thread -> id: 3230 -> priority: 1 
+  Thread -> id: 7264 -> priority: 1 
+  Thread -> id: d710 -> priority: 1 
