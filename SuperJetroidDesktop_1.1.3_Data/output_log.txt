@@ -1,0 +1,39 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7619]
+    Renderer: NVIDIA GeForce GTX 960M
+    Vendor:   NVIDIA
+    VRAM:     2018 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Bradford\Desktop\Jetpack-game-demo\SuperJetroidDesktop_1.1.3_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.113 seconds
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.905957 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.774907 ms
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1522.
+Total: 4.379037 ms (FindLiveObjects: 0.318568 ms CreateObjectMapping: 0.083293 ms MarkObjects: 0.662401 ms  DeleteObjects: 3.313194 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: da50 -> priority: 1 
+  Thread -> id: f018 -> priority: 1 
+  Thread -> id: 3e14 -> priority: 1 
+  Thread -> id: e1dc -> priority: 1 
