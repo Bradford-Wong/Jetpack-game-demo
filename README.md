@@ -22,8 +22,8 @@ Clear each stage by having the character touch the exit sign while avoid dying.<
     <b> Door - </b> Doors are initially closed and the player can't walk through them when they're in this state. Open them by using switches. <p>
       <b>Sticky Switches - </b> <p>
       <b>Non-Sticky Switches - </b> <p>
-        <b>Alien A - </b> <p>
-          <b>Alien B - </b> <p>
-            <b>Alien C - </b> <P>
+        <b>Alien A - </b> <p> - Moves left or right. Changes direction when runs into a wall or at end of platform. Touching it causes death.
+          <b>Alien B - </b> <p> Attached to the bottom of the tile, spits out a lethal projectile that goes straight down.
+            <b>Alien C - </b> <P> Stationary and initially small, but it increases in size when the player gets close. Touching it causes death.
 
 I Will be updating this more in the future.
